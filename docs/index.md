@@ -1,4 +1,4 @@
-## Hello, my name is Sara!
+## Hello, my name is Sara
 
 This is my portfolio site.
 
