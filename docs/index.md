@@ -4,7 +4,7 @@ This is my portfolio site.
 
 ### About Me
 
-![Image](images/portfolio-image.jpg)
+![Sara Law](images/portfolio-image.jpg)
 
 I am a professor at Durham College and I teach Web Technologies online.
 
