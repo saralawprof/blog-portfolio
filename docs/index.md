@@ -4,11 +4,10 @@ This is my portfolio site.
 
 ### About Me
 
-![Sara Law]()
+![Image](images/portfolio-image.jpg)
 
 I am a professor at Durham College and I teach Web Technologies online.
 
-![Image](/images/portfolio-image.jpg)
+### Contact Information
 
-###Contact Information
 Email: [sara.law@durhamcollege.ca](mailto:sara.law@durhamcollege.ca)
